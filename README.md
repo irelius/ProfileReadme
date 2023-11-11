@@ -1,7 +1,7 @@
 
 ## Hi 👋 My name is Ki Hong (Samuel) Bae
 
-I am a recent App Academy graduate looking to get myself some real world experience. I have a fine attention to detail and a love of organization, which has lended itself well to my journey into software engineering. I know I still have a lot to learn, but I'm excited to get started.
+I am an entry level software developer who is deeply passionate about problem-solving and technology. I have a fine attention to detail and a love of organization, which has lended itself well to my journey into software engineering. I know I still have a lot to learn, but I'm excited to get started.
 
 - I am based in Orange County, California, but I am willing to relocate
 - You can contact me at [sbkihong@gmail.com](mailto:sbkihong@gmail.com)
