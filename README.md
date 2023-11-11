@@ -19,5 +19,3 @@ I am an entry level software developer who is deeply passionate about problem-so
 <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' />
 <img height='32' width='32' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' />
 <img height='32' width='32' src='https://avatars.githubusercontent.com/u/3591786?s=200&v=4' />
-
-<i class="devicon-javascript-plain"></i>
